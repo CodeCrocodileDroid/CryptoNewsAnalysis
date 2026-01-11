@@ -1,0 +1,29 @@
+CRYPTOCURRENCY NEWS ANALYSIS INSIGHTS REPORT
+==================================================
+
+1. SENTIMENT OVERVIEW:
+   - Positive articles: 45.0%
+   - Negative articles: 21.0%
+   - Neutral articles: 34.0%
+
+2. SENTIMENT BY SUBJECT:
+   - Most positive subject: nft (0.073)
+   - Most negative subject: defi (0.062)
+
+3. SOURCE ANALYSIS:
+   - Most positive source: CryptoNews (0.068)
+   - Most negative source: CryptoPotato (0.061)
+
+4. TEMPORAL PATTERNS:
+   - Best sentiment hour: 17:00 (0.076)
+   - Worst sentiment hour: 1:00 (0.048)
+
+5. VOLUME ANALYSIS:
+   - Average articles per day: 40.1
+
+6. MACHINE LEARNING RESULTS:
+   - Sentiment prediction accuracy: 99.90%
+
+7. KEY FINDINGS:
+   - Market sentiment is generally positive
+   - CoinTelegraph is the most active news source
