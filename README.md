@@ -5,6 +5,7 @@ Python Machine Learning
 Cryptocurrency News Sentiment Analysis & Prediction Tool
 A comprehensive Python application that analyzes cryptocurrency news sentiment, performs machine learning predictions, and generates beautiful visualizations.
 
+<img width="5365" height="3535" alt="basic_analysis" src="https://github.com/user-attachments/assets/2cb26c81-fd83-4add-9a1b-a2939ac06f00" />
 
 
 📋 Features
